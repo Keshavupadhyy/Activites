@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Activites</string>
+    <string name="actiity_1">Activity 1</string>
+    <string name="activity_2">Welcome to the Second Activity</string>
+    <string name="button_go_to_second_act">Go to</string>
+    <string name="button_go_back">GO BACK</string>
+</resources>
